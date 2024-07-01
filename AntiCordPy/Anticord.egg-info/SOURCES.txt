@@ -1,0 +1,10 @@
+LICENSE.txt
+setup.py
+Anticord.egg-info/PKG-INFO
+Anticord.egg-info/SOURCES.txt
+Anticord.egg-info/dependency_links.txt
+Anticord.egg-info/requires.txt
+Anticord.egg-info/top_level.txt
+anticord/AntiCordGateway.py
+anticord/AntiCordPlainHttpRequest.py
+anticord/__init__.py
