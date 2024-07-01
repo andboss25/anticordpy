@@ -21,7 +21,8 @@
 
 ## INSTALL
 
-todo: add install instruction
+you can install the library manualy from here before i figure out how to upload to pypi
+`pip install AntiCordPy\dist\Anticord-0.1-py3-none-any.whl`
 
 ## EXAMPLE
 
