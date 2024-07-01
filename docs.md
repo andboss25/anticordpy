@@ -1,6 +1,7 @@
 # REMEMBER , THIS WAS MADE BY AN ANTIFURRY
 
-TODO: add install instructions
+How to install development version:
+`pip install AntiCordPy\dist\Anticord-0.1-py3-none-any.whl`
 
 # DOCUMENTATION
 
