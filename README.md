@@ -20,9 +20,7 @@
 - you may need to have a tab with the discord api docs open while writing code in this library
 
 ## INSTALL
-
-you can install the library manualy from here before i figure out how to upload to pypi
-`pip install AntiCordPy\dist\Anticord-0.1-py3-none-any.whl`
+`pip install Anticord`
 
 ## EXAMPLE
 
