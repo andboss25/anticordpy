@@ -1,11 +1,11 @@
 from setuptools import setup,find_packages
 
-with open("readme.md","r") as f:
+with open("readme.md","r",encoding="utf8") as f:
     descriptionL = f.read()
 
 setup(
         name="Anticord",
-        version="0.3",
+        version="0.4",
         packages=find_packages(),
         long_description=descriptionL,
         description="Discord api wrapper",
